@@ -1,0 +1,17 @@
+C:\Users\quoch\source\repos\DoAn\DoAn\bin\Debug\net8.0-windows\DoAn.exe
+C:\Users\quoch\source\repos\DoAn\DoAn\bin\Debug\net8.0-windows\DoAn.deps.json
+C:\Users\quoch\source\repos\DoAn\DoAn\bin\Debug\net8.0-windows\DoAn.runtimeconfig.json
+C:\Users\quoch\source\repos\DoAn\DoAn\bin\Debug\net8.0-windows\DoAn.dll
+C:\Users\quoch\source\repos\DoAn\DoAn\bin\Debug\net8.0-windows\DoAn.pdb
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.vbproj.GenerateResource.cache
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.AssemblyInfoInputs.cache
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.AssemblyInfo.vb
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.vbproj.CoreCompileInputs.cache
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.dll
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\refint\DoAn.dll
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.pdb
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.genruntimeconfig.cache
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\ref\DoAn.dll
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.dangky.resources
+C:\Users\quoch\source\repos\DoAn\DoAn\obj\Debug\net8.0-windows\DoAn.dangnhap.resources
